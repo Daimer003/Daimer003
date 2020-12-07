@@ -1,4 +1,4 @@
-# Hola gente 🚀 
+# Hola gente!! 🚀 
 ## console.log("¡Aprendo sin parar!"); ⌨️
 
 - Actualmente estoy aprendiendo  
