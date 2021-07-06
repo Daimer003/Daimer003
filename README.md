@@ -1,7 +1,6 @@
 # Hola gente!! 🚀 
 ## console.log("¡Aprendo sin parar!"); ⌨️
-
-- Actualmente estoy aprendiendo  
+ 
 - Desarrolando el sitio web de Esculturee [Tienda](https://www.esculturee.com// "Tienda") ⚙️
 - Html, css, javaScript, php
 
