@@ -26,7 +26,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="#">「 Dcorp.dev 」</a>
+    <a href="https://www.partneo.io/">「 Partneo 」</a>
     <br>
     「 I am a web application developer. 」
     <br>
