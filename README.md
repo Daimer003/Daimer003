@@ -26,7 +26,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.partneo.io/">「 Partneo 」</a>
+    <a href="https://www.partneo.io/" target="_blank">「 Partneo 」</a>
     <br>
     「 I am a web application developer. 」
     <br>
